@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6cd6b528.css",
+    "main.js": "/static/js/main.ffce4cd7.js",
+    "static/js/787.e577274b.chunk.js": "/static/js/787.e577274b.chunk.js",
+    "static/media/dahsboard-pp.jpg": "/static/media/dahsboard-pp.ec9671444feba8053236.jpg",
+    "static/media/computer.jpg": "/static/media/computer.3bc6fc9aa6846cbbe40c.jpg",
+    "index.html": "/index.html",
+    "main.6cd6b528.css.map": "/static/css/main.6cd6b528.css.map",
+    "main.ffce4cd7.js.map": "/static/js/main.ffce4cd7.js.map",
+    "787.e577274b.chunk.js.map": "/static/js/787.e577274b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cd6b528.css",
+    "static/js/main.ffce4cd7.js"
+  ]
+}
